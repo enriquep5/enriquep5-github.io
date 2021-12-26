@@ -476,6 +476,11 @@ input {
         opacity: 0.9;
         padding: 30px 20px;
     }
+
+    .map {
+        height: 300px;
+        width: 225px;
+    }
     
     /* About */
 .container-about {
