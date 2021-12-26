@@ -477,7 +477,7 @@ input {
         padding: 30px 20px;
     }
 
-    .map {
+    iframe {
         height: 300px;
         width: 225px;
     }
