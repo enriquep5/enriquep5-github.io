@@ -262,6 +262,22 @@ input {
 .contact-sub h2{
     text-align: center;
 }
+
+/* Movies List */
+
+.movie-container, .movie-sub {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:palevioletred;
+    background-color: black;
+    opacity: 0.9;
+    margin-bottom: 200px;
+}
+
+.movie-sub p{
+    text-align: center;
+}
 /* Footer */
 
 .footer {
